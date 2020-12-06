@@ -1,6 +1,6 @@
 {
 	"name": "@priceanalytics/structured-data-scraping",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Structured data extractor ld+json",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
