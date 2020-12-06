@@ -2,8 +2,16 @@
 
 Structured data extractor ld+json
 
+## Instalation
+
+```bash
+$ yarn add @priceanalytics/structured-data-scraping --save
+```
+
+## Use
+
 ```js
-import StructuredDataScraping from "./index";
+import StructuredDataScraping from "structured-data-scraping";
 
 StructuredDataScraping
     //.load("")
