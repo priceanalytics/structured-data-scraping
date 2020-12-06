@@ -11,7 +11,7 @@ $ yarn add @priceanalytics/structured-data-scraping --save
 ## Use
 
 ```js
-import StructuredDataScraping from "structured-data-scraping";
+import StructuredDataScraping from "@priceanalytics/structured-data-scraping";
 
 StructuredDataScraping
     //.load("")
